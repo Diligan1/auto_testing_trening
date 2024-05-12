@@ -14,3 +14,5 @@ print(len(my_dict))
 
 my_dict = [1, 2, 3, 2, 3, 4, 5]
 print(my_dict.count(3))
+
+print('hello world')
