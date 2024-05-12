@@ -9,5 +9,8 @@ print(len(my_list))
 result = my_list.count(1)
 print(result)
 
-my_dict = ['Hello world','2']
+my_dict = ['Hello world', '2']
 print(len(my_dict))
+
+my_dict = [1, 2, 3, 2, 3, 4, 5]
+print(my_dict.count(3))
