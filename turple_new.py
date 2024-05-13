@@ -33,4 +33,4 @@ print('Максимальное значение элемента:', max_element
 sorted_tuple = sorted(my_turple3) # метод sorted позволяет сортировать элементы в кортеже
 print(sorted_tuple)
 sorted_tuple = reversed(my_turple)
-print(sorted_tup)
+print(sorted_tup
